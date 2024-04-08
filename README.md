@@ -1,10 +1,9 @@
 
-Hello everyone, I'm Muharrem PASBIYIK. Each day, I commit a minimum of five hours to self-studying Java. 
+<h1 align="center">Hi 👋, I'm Muharrem</h1>
+<h2>Each day, I commit a minimum of five hours to self-studying Java. 
 Currently, I'm enhancing my abilities in Backend and Frontend Development. I'm excited about joining a collaborative 
 work setting where I can both contribute and learn from others. I believe my strong dedication and enthusiasm
-for software development will enable me to make meaningful contributions to a team and further my growth as a developer.
-
-<h1 align="center">Hi 👋, I'm Muharrem</h1>
+for software development will enable me to make meaningful contributions to a team and further my growth as a developer.<h2>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Backend and Frontend**

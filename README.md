@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muharrem</h1>
-<h2>Each day, I commit a minimum of five hours to self-studying Java. 
+<h3>Each day, I commit a minimum of five hours to self-studying Java. 
 Currently, I'm enhancing my abilities in Backend and Frontend Development. I'm excited about joining a collaborative 
 work setting where I can both contribute and learn from others. I believe my strong dedication and enthusiasm
 for software development will enable me to make meaningful contributions to a team and further my growth as a developer.<h2>
